@@ -1,2 +1,3 @@
 # Info2
-Random stuff
+Some random stuff.
+
